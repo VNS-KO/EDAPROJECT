@@ -1,2 +1,1 @@
-import streamlit as st
-st.title("Demo")
+print("Hello world")
